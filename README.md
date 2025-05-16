@@ -35,7 +35,7 @@ from langchain_mistralai import ChatMistralAI
 from crewai import Agent, Task, Crew, Process
 ```
 
-## ▶️ Getting Started
+##  Getting Started
 
 1. Download the file `HAWM.ipynb`
 2. Open it using your preferred IDE (Google Colab or Jupyter)
@@ -51,4 +51,4 @@ This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgements
 
-Special thanks to Arin Brahma from Loyola Marymount University for providing the initial project structure and dataset.
+*To be added.*
